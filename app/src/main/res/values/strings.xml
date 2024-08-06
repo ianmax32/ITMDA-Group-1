@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="header">Welcome</string>
+    <string name="submit_buttons">SUBMIT</string>
+</resources>
